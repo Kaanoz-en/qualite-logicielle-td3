@@ -20,6 +20,7 @@ public class Student {
     }
 
     public void publishFinalGrade(GradePublisher gradePublisher) {
+
         gradePublisher.publish(finalGrade);
     }
 }

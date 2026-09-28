@@ -1,5 +1,6 @@
 package dto.api;
 
+import dto.application.CartDto;
 import dto.application.CustomerService;
 import jakarta.ws.rs.POST;
 import jakarta.ws.rs.Path;
